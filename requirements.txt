@@ -1,0 +1,18 @@
+# AT&T Spam Detector — Bloc 4 (Deep Learning NLP)
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+
+# Deep Learning - Transfer learning DistilBERT
+torch
+transformers
+datasets
+accelerate
+
+# NLP utils
+nltk
+
+jupyter
+ipykernel
